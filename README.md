@@ -47,9 +47,6 @@ I'm fascinated by how modern systems run, from low-level hardware up to complex,
 
 🛠️ My Tech Stack & Tools
 
-<details>
-<summary>Click to expand</summary>
-
 <h4>Languages</h4>
 <p>
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/HTML5-E34F26%3Fstyle%3Dfor-the-badge%26logo%3Dhtml5%26logoColor%3Dwhite" alt="HTML5"/>
@@ -58,7 +55,7 @@ I'm fascinated by how modern systems run, from low-level hardware up to complex,
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/C-A8B9CC%3Fstyle%3Dfor-the-badge%26logo%3Dc%26logoColor%3Dwhite" alt="C"/>
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/C%2B%2B-00599C%3Fstyle%3Dfor-the-badge%26logo%3Dcplusplus%26logoColor%3Dwhite" alt="C++"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" alt="Python"/>
+<img src="httpsimg.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 </p>
 
 <h4>Hardware & Embedded</h4>
@@ -76,7 +73,6 @@ I'm fascinated by how modern systems run, from low-level hardware up to complex,
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Wireshark-1679A7%3Fstyle%3Dfor-the-badge%26logo%3Dwireshark%26logoColor%3Dwhite" alt="Wireshark"/>
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Burp_Suite-FF6600%3Fstyle%3Dfor-the-badge%26logo%3Dburpsuite%26logoColor%3Dwhite" alt="Burp Suite"/>
 </p>
-</details>
 
 📈 My GitHub Activity
 
@@ -86,6 +82,6 @@ You can customize the stats card! Check out: https://www.google.com/search?q=htt
 -->
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mbendari7&show_icons=true&theme=gruvbox&icon_color=FABD2F&hide_border=true" alt="GitHub Stats" />
+<img src="httpss://github-readme-stats.vercel.app/api?username=mbendari7&show_icons=true&theme=gruvbox&icon_color=FABD2F&hide_border=true" alt="GitHub Stats" />
 <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dmbendari7%26layout%3Dcompact%26theme%3Dgruvbox%26hide_border%3Dtrue" alt="Top Languages" />
 </div>
