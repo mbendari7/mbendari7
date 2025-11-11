@@ -5,23 +5,9 @@ Hey! Thanks for using this template.
 Find and replace [YOUR_GITHUB_USERNAME] and other placeholders with your own information.
 -->
 
-<!-- ASCII Art Banner -->
+<!-- Animated Banner -->
 
-<pre>
-mbendari7
-+--------------------------------------------------------------------------------+
-|      ___            __                _      _____                             |
-|     / _ ___  __ _ / /  ___ ____ _ | |  / / / |                            |
-|    / // / _ / // // // _ / _ / / / / / / / /                             |
-|   /____/_/_, ///_,/_,// //_///                              |
-|             //                                                            |
-|      __                     __                  __                           |
-|     / / _ ____ ____ ___ / /_ ___ _ ___ _ / / ___ ____  ___            |
-|    / / __ / / // / / // _ / __// _ // _ `// _  // // // __/ / _ \           |
-|   //_,/_,///_, //__/_/ _, / _, / _,/ _,///    _// /           |
-|                  //         // //                   /_/            |
-+--------------------------------------------------------------------------------+
-</pre>
+<img src="https://www.google.com/search?q=https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Cybersecurity Animated Banner"/>
 
 <h1>Hi there, I'm Mahmoud Bendari <img src="https://www.google.com/search?q=https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
@@ -53,11 +39,11 @@ I'm fascinated by how modern systems run, from low-level hardware up to complex,
 
 🌱 I’m currently learning: Object Oriented Programming
 
-💬 Ask me about: Computer Hardware Archetecture, Linux Applications in Cybersecurity
+💬 Ask me about: Computer Hardware Architecture, Linux Applications in Cybersecurity
 
 📫 How to reach me: Check out the links above!
 
-⚡ Fun fact: I repair software and hardware issues on teh side!
+⚡ Fun fact: I repair software and hardware issues on the side!
 
 🛠️ My Tech Stack & Tools
 
@@ -70,7 +56,7 @@ I'm fascinated by how modern systems run, from low-level hardware up to complex,
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/CSS3-1572B6%3Fstyle%3Dfor-the-badge%26logo%3Dcss3%26logoColor%3Dwhite" alt="CSS3"/>
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3Dblack" alt="JavaScript"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-<img src="httpsB://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/C-A8B9CC%3Fstyle%3Dfor-the-badge%26logo%3Dc%26logoColor%3Dwhite" alt="C"/>
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/C%2B%2B-00599C%3Fstyle%3Dfor-the-badge%26logo%3Dcplusplus%26logoColor%3Dwhite" alt="C++"/>
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" alt="Python"/>
 </p>
@@ -101,5 +87,5 @@ You can customize the stats card! Check out: https://www.google.com/search?q=htt
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=mbendari7&show_icons=true&theme=gruvbox&icon_color=FABD2F&hide_border=true" alt="GitHub Stats" />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3D[YOUR_GITHUB_USERNAME]&layout=compact&theme=gruvbox&hide_border=true" alt="Top Languages" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dmbendari7%26layout%3Dcompact%26theme%3Dgruvbox%26hide_border%3Dtrue" alt="Top Languages" />
 </div>
