@@ -7,7 +7,7 @@
 
 <p>
 I'm a <strong>Computer Engineering Co-op Student</strong> at the <strong>University of Guelph</strong>.<br>
-I love exploring Linux systems, network security, and ethical hacking 🔐.
+I love exploring Linux systems, network security, and ethical hacking.
 </p>
 
 <!-- 🌐 Social Links -->
@@ -127,7 +127,7 @@ My goal is to **design, protect, and optimize** robust and intelligent systems.
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mbendari7&show_icons=true&theme=tokyonight&hide_border=true&icon_color=33CCFF" alt="GitHub Stats"/>
