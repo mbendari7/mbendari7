@@ -24,7 +24,7 @@ I love exploring Linux systems, network security, and ethical hacking 🔐.
 
 ---
 
-## ⚙️ About Me
+## About Me
 
 I'm fascinated by how modern systems operate — from low-level hardware to secure, distributed networks.  
 My goal is to **design, protect, and optimize** robust and intelligent systems.
@@ -36,9 +36,9 @@ My goal is to **design, protect, and optimize** robust and intelligent systems.
 
 ---
 
-## 🧠 Tech Stack & Tools
+## Tech Stack & Tools
 
-### 💻 Programming Languages
+### Programming Languages
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
@@ -51,7 +51,7 @@ My goal is to **design, protect, and optimize** robust and intelligent systems.
 
 ---
 
-### 🔩 Hardware & Embedded Systems
+### Hardware & Embedded Systems
 <p>Check out my hardware projects: <a href="https://sites.google.com/view/digitalfixers"><strong>Digital Fixers Profile</strong></a></p>
 <p>
 <a href="https://www.arduino.cc/" target="_blank">
@@ -61,7 +61,7 @@ My goal is to **design, protect, and optimize** robust and intelligent systems.
 
 ---
 
-### 🧰 Kali Linux & Cybersecurity Tools
+### Kali Linux & Cybersecurity Tools
 <p>
 <a href="https://www.kali.org/" target="_blank">
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
