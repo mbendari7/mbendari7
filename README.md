@@ -26,7 +26,7 @@ I love exploring Linux systems, network security, and ethical hacking.
 
 ## About Me
 
-I'm fascinated by how modern systems operate — from low-level hardware to secure, distributed networks.  
+I'm fascinated by how modern systems operate, from low level hardware to secure, distributed networks.  
 My goal is to **design, protect, and optimize** robust and intelligent systems.
 
 - **Core Interests:** Linux, Network Engineering, Cybersecurity, Embedded Systems, Computer Architecture & Hardware
