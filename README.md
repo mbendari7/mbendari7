@@ -29,7 +29,7 @@ I love exploring Embedded Systems, Linux, and Programming.
 I'm fascinated by how modern systems operate, from low level hardware to secure, distributed networks.  
 My goal is to **design, protect, and optimize** robust and intelligent systems.
 
-- **Core Interests:** Linux,Cybersecurity, Embedded Systems, Computer Architecture & Hardware
+- **Core Interests:** Linux, Cybersecurity, Embedded Systems, Computer Architecture & Hardware
 - **Currently Learning:** Embedded System Design & Programming 
 - **Ask Me About:** Programming, Hardware Design, Linux Applications in Computing
   
@@ -38,6 +38,7 @@ My goal is to **design, protect, and optimize** robust and intelligent systems.
 ## Tech Stack & Tools
 
 ### Programming Languages
+
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
@@ -51,11 +52,34 @@ My goal is to **design, protect, and optimize** robust and intelligent systems.
 ---
 
 ### Hardware & Embedded Systems
+
 <p>Check out my hardware projects: <a href="https://sites.google.com/view/digitalfixers"><strong>Digital Fixers Profile</strong></a></p>
+
 <p>
 <a href="https://www.arduino.cc/" target="_blank">
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
 </a>
+<a href="https://www.espressif.com/en/products/socs/esp32" target="_blank">
+  <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32"/>
+</a>
+<a href="https://www.kicad.org/" target="_blank">
+  <img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white" alt="KiCad"/>
+</a>
+
+<!-- Uncomment any of these if they apply to you:
+<a href="https://www.raspberrypi.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi"/>
+</a>
+<a href="https://code.visualstudio.com/" target="_blank">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+</a>
+<a href="https://platformio.org/" target="_blank">
+  <img src="https://img.shields.io/badge/PlatformIO-FF7F00?style=for-the-badge&logo=platformio&logoColor=white" alt="PlatformIO"/>
+</a>
+<a href="https://www.st.com/en/development-tools/stm32cubeide.html" target="_blank">
+  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32"/>
+</a>
+-->
 </p>
 
 ---
