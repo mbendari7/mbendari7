@@ -7,7 +7,7 @@
 
 <p>
 I'm a <strong>Computer Engineering Co-op Student</strong> at the <strong>University of Guelph</strong>.<br>
-I love exploring Linux systems, network security, and ethical hacking.
+I love exploring Embedded Systems, Linux, and Programming.
 </p>
 
 <!-- 🌐 Social Links -->
@@ -29,11 +29,10 @@ I love exploring Linux systems, network security, and ethical hacking.
 I'm fascinated by how modern systems operate, from low level hardware to secure, distributed networks.  
 My goal is to **design, protect, and optimize** robust and intelligent systems.
 
-- **Core Interests:** Linux, Network Engineering, Cybersecurity, Embedded Systems, Computer Architecture & Hardware
-- **Currently Learning:** Object-Oriented Programming (OOP)  
-- **Ask Me About:** Cybersecurity Tools, Hardware Design, Linux Applications in Security  
-- **Fun Fact:** I troubleshoot both software and hardware issues as a tech startup!
-
+- **Core Interests:** Linux,Cybersecurity, Embedded Systems, Computer Architecture & Hardware
+- **Currently Learning:** Embedded System Design & Programming 
+- **Ask Me About:** Programming, Hardware Design, Linux Applications in Computing
+  
 ---
 
 ## Tech Stack & Tools
