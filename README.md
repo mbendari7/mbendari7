@@ -50,11 +50,11 @@ My goal is to **design, protect, and optimize** robust and intelligent systems.
 
 ### ⚙️ Dual-Axis Solar Tracker
 An embedded systems project that automatically orients a solar panel toward the brightest light source on **two axes**, maximizing energy capture throughout the day.
-- **Hardware:** Arduino Nano ESP32 · 2× MG90S servos · 4× photoresistor light sensors · SSD1306 OLED
+- **Hardware:** Arduino Nano ESP32 · 2× MG90S servos · 4× photoresistor light sensors · 1.8" ST7735 TFT
 - **Firmware & Connectivity:** C++ on PlatformIO (ESP32Servo) using a shadow-contrast tracking algorithm. Engineered with a wireless network connection directly to a smartphone, enabling a remote wireless connectivity controller interface.
 - **Design & Control:** Custom 3D-printed chassis (SolidWorks + Cura) · circuit schematic in KiCad · enclosure spatial layout mapped in AutoCAD.
-- **Status:** 🚧 In progress — assembly begins end of June 2026
-<p><a href="https://github.com/mbendari7"><strong>→ View the build</strong></a></p>
+- **Status:** ✅ Completed and tested
+<p><a href="https://github.com/mbendari7/dual-axis-solar-tracker"><strong>→ View the build</strong></a></p>
 
 ### 🍃 EcoLens (GenAI Genesis Hackathon)
 A sustainability-focused grocery scanning application co-developed during the GenAI Genesis 2026 hackathon.
