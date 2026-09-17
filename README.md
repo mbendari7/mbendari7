@@ -41,7 +41,7 @@ I'm fascinated by how modern systems operate, from low-level hardware to secure,
 My goal is to **design, protect, and optimize** robust and intelligent systems.
 
 - **Core Interests:** Linux, Cybersecurity, Embedded Systems, Computer Architecture & Hardware
-- **Currently Learning:** Embedded System Design & Programming 
+- **Currently Learning:** Digital System Design/Data Structures & Algorithms
 - **Ask Me About:** Programming, Hardware Design, Linux Applications in Computing
   
 ---
