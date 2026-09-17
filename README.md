@@ -28,7 +28,7 @@ I love exploring Embedded Systems, Linux, and Programming.
   <img src="https://img.shields.io/badge/Open%20to%20Co--op-Summer%202027-2EA44F?style=for-the-badge" alt="Open to Co-op Summer 2027"/>
 </p>
 <p align="center">
-  📍 <strong>Ontario</strong> — GTA · Kitchener–Waterloo · Guelph · Hamilton &nbsp;•&nbsp; <strong>Vancouver, BC</strong>
+  📍 <strong>Ontario</strong> — GTA · Kitchener–Waterloo · Guelph · Hamilton &nbsp;•&nbsp; <strong>Remote/Hybrid</strong>
 </p>
 
 </div>
