@@ -18,7 +18,7 @@ I love exploring Embedded Systems, Linux, and Programming.
   <a href="mailto:mbendari25@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="Mahmoud_Bendari_Resume.pdf" target="_blank">
+  <a href="Mahmoud_Bendari_Resume_2026_COOP.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=reverbnation&logoColor=white" alt="Resume"/>
   </a>
 </p>
