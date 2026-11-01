@@ -18,7 +18,7 @@ I love exploring Embedded Systems, Linux, and Programming.
   <a href="mailto:mbendari25@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="Mahmoud_Bendari_Resume_2026_COOP.pdf" target="_blank">
+  <a href="Mahmoud_Bendari_Resume_Software.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=reverbnation&logoColor=white" alt="Resume"/>
   </a>
 </p>
@@ -48,20 +48,21 @@ My goal is to **design, protect, and optimize** robust and intelligent systems.
 
 ## 🔭 Featured Projects
 
-### ⚙️ Dual-Axis Solar Tracker
-An embedded systems project that automatically orients a solar panel toward the brightest light source on **two axes**, maximizing energy capture throughout the day.
-- **Hardware:** Arduino Nano ESP32 · 2× MG90S servos · 4× photoresistor light sensors · 1.8" ST7735 TFT
-- **Firmware & Connectivity:** C++ on PlatformIO (ESP32Servo) using a shadow-contrast tracking algorithm. Engineered with a wireless network connection directly to a smartphone, enabling a remote wireless connectivity controller interface.
-- **Design & Control:** Custom 3D-printed chassis (SolidWorks + Cura) · circuit schematic in KiCad · enclosure spatial layout mapped in AutoCAD.
-- **Status:** ✅ Completed and tested
-<p><a href="https://github.com/mbendari7/dual-axis-solar-tracker"><strong>→ View the build</strong></a></p>
+### 📡 CoopRadar: Resume-Matched Co-op Job Board
+A free job board for co-op and internship students. Drop in a resume (no sign-up) and it shows which jobs fit you, and why.
+- **What it does:** Pulls about 13,700 real co-op, internship and entry-level jobs from 1,700+ employer career pages and the Government of Canada Job Bank. It reads each posting for program, graduation year, work term and skills, then ranks matches with plain "why it fits" notes.
+- **Tech Stack:** Python 3.12 · FastAPI · PostgreSQL 16 (full-text search, pgvector) · SQLAlchemy 2.0 · React 18 + TypeScript · Tailwind CSS · TanStack Query
+- **Engineering:** Matching runs in SQL, so it's free and instant (p95 under 300 ms on 10,000 jobs). Jobs refresh every 6 hours. 530+ tests (pytest, Vitest, Playwright) and a strict CI pipeline. Optional bring-your-own-key AI (Claude, ChatGPT, Gemini) for resume tailoring and cover letters.
+- **Status:** 🚀 Live and deployed (Render + Neon + Vercel)
+<p><a href="https://coop-radar-qdrc.vercel.app/"><strong>→ Try it live</strong></a> &nbsp;·&nbsp; <a href="https://github.com/mbendari7/COOP-Radar"><strong>View the repo</strong></a></p>
 
-### 🍃 EcoLens (GenAI Genesis Hackathon)
-A sustainability-focused grocery scanning application co-developed during the GenAI Genesis 2026 hackathon.
-- **Tech Stack:** Next.js, React, Tailwind CSS, Node.js
-- **Purpose:** Designed to help users track and improve their environmental footprint through everyday grocery purchases by scanning items and receiving sustainability metrics.
-- **Status:** 🏆 Submitted March 2026
-<p><a href="https://github.com/mbendari7/EcoLens"><strong>→ View the repo</strong></a></p>
+### ⚙️ Dual-Axis Solar Tracker
+An embedded system that turns a solar panel toward the brightest light on **two axes**, so it captures more energy through the day.
+- **Hardware:** Arduino Nano ESP32 · 2× MG90S servos · 4× photoresistor light sensors · 1.8" ST7735 TFT
+- **Firmware & Connectivity:** C++ on PlatformIO (ESP32Servo) with a shadow-contrast tracking algorithm. It connects wirelessly to a smartphone, so you can monitor and control it remotely.
+- **Design:** Custom 3D-printed chassis (SolidWorks + Cura) · circuit schematic in KiCad · enclosure layout in AutoCAD
+- **Status:** ✅ Built and tested
+<p><a href="https://github.com/mbendari7/Solar-Tracker-Project"><strong>→ View the build</strong></a></p>
 
 ---
 
